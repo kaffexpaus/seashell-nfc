@@ -1,0 +1,6 @@
+{
+  "name": "Seashell NFC Keychain",
+  "description": "An elegant, interactive product website for NFC-enabled seashell keychains and accessories designed to help find lost things with soft ocean-themed aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
